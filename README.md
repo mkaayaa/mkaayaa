@@ -1,60 +1,35 @@
 # Muhammet Ali Kaya
 
-### Electrical & Electronics Engineering | Embedded Systems | PCB Design | Computer Vision
+Electrical & Electronics Engineering student interested in embedded systems, PCB design, and computer vision.
 
-I am an Electrical & Electronics Engineering student focused on embedded systems, autonomous systems, computer vision, and PCB design.
+I focus on projects that bring hardware and software together, particularly autonomous tracking and embedded vision applications.
 
-My work combines hardware and software development, with a particular interest in real-time computer vision, embedded computing, and autonomous tracking systems.
+## Technical Focus
 
-## 🔧 Technical Skills
+- **Programming:** C, C++, Python, MATLAB
+- **Embedded systems and hardware:** Raspberry Pi, microcontroller architectures, PCB design, KiCad
+- **Computer vision:** YOLOv8, image processing, real-time object detection
 
-**Programming**
-- C / C++
-- Python
-- MATLAB
+## Projects
 
-**Embedded Systems & Hardware**
-- Raspberry Pi
-- Microcontroller Architectures
-- PCB Design
-- KiCad
+### [Autonomous Antenna Tracking System](https://github.com/mkaayaa/autonomous-antenna-tracking)
 
-**Computer Vision & Autonomous Systems**
-- YOLOv8
-- Image Processing
-- Real-Time Object Detection
-- Autonomous Tracking Systems
+**TÜBİTAK 2209-B undergraduate research project**
 
-## 🚀 Featured Projects
+The project aims to track UAVs using an autonomous antenna system. Its scope includes YOLOv8-based target detection, Raspberry Pi 5 integration, and custom hardware for communication and tracking control.
 
-### Autonomous Antenna Tracking System
-**TÜBİTAK 2209-B Undergraduate Research Project**
+The repository currently contains a project overview; source code, PCB files, and test results have not yet been published there.
 
-Development of an autonomous antenna tracking system designed for real-time UAV tracking.
+### ResilientPort2053 — Carbon & Microclimate Platform
 
-- Developed a YOLOv8-based computer vision model for real-time target detection
-- Implemented the vision system on Raspberry Pi 5
-- Designed custom PCBs for communication and antenna tracking control
-- Worked on the hardware and software architecture of the autonomous tracking system
+An engineering design project for a mobile, modular photobioreactor platform focused on carbon reduction.
 
-### ResilientPort2053 — Autonomous Carbon & Microclimate Platform
+My contributions include system architecture, technical specifications, modular design, resource and budget planning, and technical R&D documentation.
 
-Engineering design of a mobile and modular photobioreactor platform focused on carbon reduction.
+## Interests
 
-- System architecture and technical specification development
-- Modular system design
-- Engineering resource and budget planning
-- Preparation of technical R&D documentation
+Embedded systems · Autonomous systems · Computer vision · PCB and hardware design · Defense technologies
 
-## 🎯 Areas of Interest
-
-- Embedded Systems
-- Autonomous Systems
-- Computer Vision
-- PCB & Hardware Design
-- Artificial Intelligence
-- Defense Technologies
-
-## 📫 Connect with Me
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/muhammedkaya1)
